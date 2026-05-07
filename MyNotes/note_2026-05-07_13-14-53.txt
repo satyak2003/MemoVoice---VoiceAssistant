@@ -1,0 +1,1 @@
+hello everyone today we are going to speak about assistant which is the app that I have built using Python speech recognition and output as well so this is how it for a work it is voice assistant so we need to select the microphone or here and then as soon as we hits speak now it will start listening to
